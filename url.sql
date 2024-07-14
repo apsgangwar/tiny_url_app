@@ -1,6 +1,3 @@
-
--- 
-
 CREATE TABLE `url` (
   `id` VARCHAR(36) NOT NULL,
   `short_url` VARCHAR(5) NOT NULL UNIQUE,
